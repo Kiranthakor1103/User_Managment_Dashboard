@@ -70,4 +70,8 @@ Link:- https://usermanagementdash-board.netlify.app
 3. Install dependencies:
 
 ```bash
+cd /path/to/your/projects/folder
+git clone https://github.com/Kiranthakor1103/User_Managment_Dashboard.git
+cd User_Managment_Dashboard
 npm install
+npm run dev
